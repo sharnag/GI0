@@ -1,0 +1,15 @@
+Package: GI0
+Title: The GI0 Distribution
+Version: 0.0.1.9000
+Authors@R: 
+    person("Sharna", "Granwal", , "granwashar@myvuw.ac.nz", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-1010-3284"))
+Description: This package provides the density, the cumulative distribution function, the quantile function, and a pseudorandom number generator for the GI0 distribution.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports:
+Depends:
+Suggests:
+VignetteBuilder: knitr
