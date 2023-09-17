@@ -1,0 +1,6 @@
+"0",""
+"0","legend(x = ""topright"",          "
+"0","       legend = c(l1, l2, l3, l4),  "
+"0","       lty = c(1,1,1,1),          "
+"0","       col = c(""black"", ""red"",""blue"",""green""),        "
+"0","       lwd = 2) "

@@ -1,0 +1,4 @@
+"0","x <- seq(0.001, 10, length=100)"
+"0","plot(x, dGI0(x, p_alpha=-1, p_gamma=1, p_Looks=1), type = ""l"", lwd = 2,"
+"0","     xlab = expression(italic(z)), ylab = ""Density"","
+"0","     main=""GI0 Densities"")"
