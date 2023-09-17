@@ -12,4 +12,4 @@ The functions were modified to check that valid parameters are passed when calle
 
 Documentation for each function was created using `roxygen2`. 
 
-A vignette was created to outline how to use each function.
+A vignette was created to outline how to use each function and includes references for the distribution and related.
