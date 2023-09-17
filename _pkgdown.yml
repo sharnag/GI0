@@ -1,4 +1,5 @@
 url: https://sharnag.github.io/GI0/
 template:
   bootstrap: 5
+  bootswatch: yeti
 
